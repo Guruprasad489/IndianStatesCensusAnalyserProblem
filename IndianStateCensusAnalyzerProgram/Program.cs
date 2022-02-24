@@ -11,7 +11,6 @@ namespace IndianStateCensusAnalyzerProgram
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Indian State Census Analyzer Program");
-
             Console.ReadLine();
         }
     }
